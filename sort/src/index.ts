@@ -1,0 +1,6 @@
+
+
+class stringCollection {
+  constructor(parameters) {}
+}
+
